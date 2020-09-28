@@ -7,12 +7,12 @@ import {Quote} from '../quote';
 })
 export class QuoteComponent implements OnInit {
   quotes: Quote[] = [
-    new Quote(1, 'The blaze', 'full episode on ktn', new Date(2020, 3, 14)),
-    new Quote(2, 'Nikiminaj ft Tekashix69', 'TROLLZ', new Date(2020, 6, 9)),
-    new Quote(3, 'JUSTIN BIBER FT DJ KHALID', 'NO BRAINER', new Date(2018, 1, 12)),
-    new Quote(4, 'MILEY CYRUS', 'CANT STOP', new Date(2019, 0, 18)),
-    new Quote(5, 'Solve math homework', 'Damn Math', new Date(2019, 2, 14)),
-    new Quote(6, 'Plot my world domination plan', 'Cause I am an evil overlord', new Date(2030, 3, 14)),
+    new Quote(1, 'SLEEPY HALLOW SEASON 1', 'FULL EPISODE EVERY THURSDAY', new Date(2020, 3, 14)),
+    new Quote(2, 'NIKIMINAJ ft TEKASHI69', 'TROLLZ', new Date(2020, 6, 9)),
+    new Quote(3, 'GREYS ANATOMY SEASON 11', 'PRIMEAR FOX TV', new Date(2018, 1, 12)),
+    new Quote(4, 'IMMPOSTER SEASON 2', 'PRIMEAR FOX TV', new Date(2019, 0, 18)),
+    new Quote(5, 'CROWN LAKE SEASON 2', 'PRIMEAR BRAT TV', new Date(2019, 2, 14)),
+    new Quote(6, 'LOCKE AND KEY SEASON 1', 'PREMIAR FOX TV', new Date(2030, 3, 14)),
   ]
    toggleDetails(index){
      this.quotes[index].showDescription = !this.quotes[index].showDescription;
