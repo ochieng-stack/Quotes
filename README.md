@@ -6,9 +6,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Quotes was designed to help people create and build quotes for themselve and nif the quote is not loved you might downvote the quote at any time
 
 # Technologies Used
-* Html
-* bostrap
-* typescript
+* HTML
+* TYPESCRIPT
+* BOOSTRAP
+* CSS
+
 # SETUP INSTRUCTION
 * Add button 
 
