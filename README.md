@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
 
+# Authors Description
+Quotes was designed to help people create and build quotes for themselve and nif the quote is not loved you might downvote the quote at any time
+
+# Technologies Used
+* Html
+* bostrap
+* typescript
+# SETUP INSTRUCTION
+* Add button 
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
